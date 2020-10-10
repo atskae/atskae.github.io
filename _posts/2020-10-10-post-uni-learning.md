@@ -6,8 +6,8 @@ feeling: Sluggish
 reading: Harry Potter and the Order of Phoenix, A Random Walk Down Wall Street
 listening: 未来の輪郭線
 piano: Pokemon GSC Ending
-categories: [Life, Computer Science]
-tags: [reflection, quantum computing]
+categories: [Computer Science, Life]
+tags: [reflection, quantum computing, finance, japanese]
 ---
 
 My goal to "keep track of my learning on this site" has been an failure. The last time I wrote was back in March - a lot has happened since then:
@@ -25,7 +25,7 @@ I was prompted to return to this "notebook" when I went to clean up my (embarass
 
 And I regret not writing about any of my process! How did I get from art/graphic design/UI/UX to computer architecture and now quantum computing? What did I learn from all of those journeys?
 
-This entry is just a self-motivating post to hopefully *finally* start documenting all of this learning! So I guess I shall start today.
+This entry is just a self-motivating post to hopefully *finally* start documenting all of this learning!
 
 ## Some learning materials I went through recently
 
@@ -51,7 +51,7 @@ Note to former self: get complex numbers, trigonometry, and linear algebra down 
 I spent a ton of time watching these [Khan Academy videos](https://www.khanacademy.org/college-careers-more/personal-finance) on finance topics, like 401(k)s, stocks, taxes, ... Does Sal Khan know everything about everything?! I feel blessed to have so much learning material that is accessible and free.
 
 ### Japanese
-I've been creating Quizlet flashcards of kanji that I see in media (manga, anime, songs), sorting by [grade-level](https://en.wikipedia.org/wiki/Ky%C5%8Diku_kanji) and [secondary school kanji](https://www.kanshudo.com/collections/secondary_kanji). [Jisho](https://jisho.org/) has been a really good resource. I think my vocabulary recall needs to be better (I can't just memorize individual kanji). I even joined the Japanese Slack channel at work (hopefully someday I can read what is written!)
+I've been creating Quizlet flashcards of kanji that I see in media (manga, anime, songs), sorted by [grade-level](https://en.wikipedia.org/wiki/Ky%C5%8Diku_kanji) and [secondary school kanji](https://www.kanshudo.com/collections/secondary_kanji). [Jisho](https://jisho.org/) has been a really good resource. I think my vocabulary recall needs to be better (I shouldn't *just* memorize individual kanji). I also joined the Japanese Slack channel at work (hopefully someday I can read what is written)
 
 ### Software Engineering
-I've started fiddling with Continous Integration tools, like Jenkins, Concourse, Ansible. I've been experiencing the Agile process for a few months now (I did have a tiny taste of it back in my design days).
+I've started fiddling with Continuous Integration tools, like Jenkins, Concourse, and Ansible. For Concourse, read their [documentation](https://concourse-ci.org/docs.html) *before* the [Stark & Wayne tutorial](https://concoursetutorial.com/). I've been experiencing the Agile process at work for a few months now (I did have a tiny taste of it back in my design days). 
