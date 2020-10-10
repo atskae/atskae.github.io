@@ -34,7 +34,7 @@ plugins:
   - jemoji
 header_pages:
   - about.md
-  - blog.md
+  - notebook.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

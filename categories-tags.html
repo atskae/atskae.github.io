@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/categories-tags/
+permalink: /notebook/categories-tags/
 ---
 
 <div id="archives">
@@ -22,10 +22,6 @@ permalink: /blog/categories-tags/
 {% endfor %}
 </div>
 
-<br>
-<hr>
-<br>
-
 <div id="archives">
 <h2> Tags </h2>
 {% for tag in site.tags %}
@@ -34,14 +30,12 @@ permalink: /blog/categories-tags/
     <div id="#{{ tag_name | slugize }}"></div>
     <p></p>
 
-    <h4 class="tag-head">{{ tag_name }}</h4>
+    <b class="tag-head">{{ tag_name }}</b>
     <a name="{{ tag_name | slugize }}"></a>
     {% for post in site.tags[tag_name] %}
     <span><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></span>
     {% unless forloop.last %},{% endunless %}
     {% endfor %}
-    </div>
-
   </div>
 {% endfor %}
 </div>
