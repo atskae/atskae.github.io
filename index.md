@@ -5,4 +5,8 @@
 layout: default
 ---
 
-<div><p style="text-align: center"><img src="{{site.baseurl}}/assets/home/wip.png"></p></div>
+<div>
+<p style="text-align: center">
+<img src="{{site.baseurl}}/assets/home/wip.png">
+</p>
+</div>
