@@ -32,6 +32,8 @@ I always read this name as "cactus".
 <div><img src="{{site.baseurl}}/assets/2020-03-07/SPEC17-wrf.png"></div>
 Woof + Arf = Wrf.
 
+Update: I sent this to a friend and she thought the middle dog was saying "wtf" :joy:
+
 ### `526.blender_r`
 <div><img src="{{site.baseurl}}/assets/2020-03-07/SPEC17-blender.png"></div>
 I don't think of a literal blender, strangely enough. It's probably because `541.leela_r` is in here.

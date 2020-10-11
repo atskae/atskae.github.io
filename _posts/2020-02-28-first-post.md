@@ -7,6 +7,7 @@ reading: The Time Regulation Institute
 listening: The Nutcracker
 piano: Slider (Super Mario 64)
 categories: Life
+tags: reflection
 ---
 
 This is my first blog post. Hello World!
